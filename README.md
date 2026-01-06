@@ -95,7 +95,7 @@ This project goes beyond basic tutorials by:
 ---
 
 ## Repository Structure
-
+```
 protein-ml-classification/
 │
 ├── notebook/
@@ -108,8 +108,7 @@ protein-ml-classification/
 │   └── protein_ml_report.pdf
 ├── README.md
 └── requirements.txt
-
-
+````
 ---
 
 ## How to Run
